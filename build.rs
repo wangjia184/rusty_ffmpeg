@@ -56,6 +56,8 @@ static HEADERS: Lazy<Vec<PathBuf>> = Lazy::new(|| {
         "libavfilter/version_major.h",
         "libavformat/avformat.h",
         "libavformat/avio.h",
+        "libavformat/hevc.h",
+        "libavformat/avc.h",
         "libavformat/version.h",
         "libavformat/version_major.h",
         "libavutil/adler32.h",
